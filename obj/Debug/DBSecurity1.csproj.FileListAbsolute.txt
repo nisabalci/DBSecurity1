@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\DBSecurity1\DBSecurity1\bin\Debug\DBSecurity1.exe.config
+C:\Users\user\source\repos\DBSecurity1\DBSecurity1\bin\Debug\DBSecurity1.exe
+C:\Users\user\source\repos\DBSecurity1\DBSecurity1\bin\Debug\DBSecurity1.pdb
+C:\Users\user\source\repos\DBSecurity1\DBSecurity1\obj\Debug\DBSecurity1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DBSecurity1\DBSecurity1\obj\Debug\DBSecurity1.Properties.Resources.resources
+C:\Users\user\source\repos\DBSecurity1\DBSecurity1\obj\Debug\DBSecurity1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DBSecurity1\DBSecurity1\obj\Debug\DBSecurity1.exe
+C:\Users\user\source\repos\DBSecurity1\DBSecurity1\obj\Debug\DBSecurity1.pdb
+C:\Users\user\source\repos\DBSecurity1\DBSecurity1\obj\Debug\DBSecurity1.frmBruteForce.resources
